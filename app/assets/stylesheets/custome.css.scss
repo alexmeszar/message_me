@@ -4,3 +4,18 @@
 .chatbox {
   height: 450px;
 }
+
+#messages {
+  height: 15em;
+  overflow: auto;
+}
+
+#send_message {
+  #padding-bottom: 20px;  
+}
+
+.input {
+  button {
+    display: none;
+  }
+}
